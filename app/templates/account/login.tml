@@ -1,0 +1,8 @@
+
+
+<!-- Login -->
+<form method="POST" action="/login" >
+    <!-- Login -->
+    <input type="email" name="email">
+    <input type="password" name="password">
+</form>
